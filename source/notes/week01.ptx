@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pretext>
+    <article xml:id="notes">
+        <section xml:id="notes-week-01">
+        <title>Differential Equations</title>
+        <p>
+            A <term>differential equation</term> is just an equation that involves the derivative 
+            of a function. Consider the equation
+            <men xml:id="eqn-sinODE">
+                \dfrac{d^4y}{(dx)^4} = y
+            </men>
+            This is a differential equation.
+        </p>
+
+        </section>
+    </article>
+</pretext>
